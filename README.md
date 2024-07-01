@@ -17,8 +17,8 @@ The Stock Market Prediction Model is a machine learning project that uses Tensor
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/abhisek-13/stock-market-prediction.git
-    cd stock-market-prediction
+    git clone https://github.com/abhisek-13/Stock_price_prediction.git
+    cd Stock_price_prediction
     ```
 2. Create and activate a virtual environment:
     ```bash
@@ -33,14 +33,14 @@ The Stock Market Prediction Model is a machine learning project that uses Tensor
 ## Usage
 1. Open the Jupyter Notebook:
     ```bash
-    jupyter notebook stock_market_prediction.ipynb
+    jupyter notebook stock_market_price_prediction (1).ipynb
     ```
 2. Follow the steps in the notebook to preprocess the data and train the model.
 3. Fine-tune the model with your own dataset by replacing the Google price data with other company price data.
 4. Use the trained model to make stock price predictions.
 
 ## Project Structure
-- `stock_market_prediction.ipynb`: Jupyter Notebook containing the code for data preprocessing, model training, and prediction.
+- `stock_market_price_prediction (1).ipynb`: Jupyter Notebook containing the code for data preprocessing, model training, and prediction.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
